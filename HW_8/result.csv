@@ -1,0 +1,7 @@
+name,type,size,parent_directory
+r,directory,0,m
+l,directory,6148,m
+.DS_Store,file,6148,m
+text.txt,file,96,m
+n,directory,0,m/l
+.DS_Store,file,6148,m/l
